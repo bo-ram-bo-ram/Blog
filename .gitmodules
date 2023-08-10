@@ -1,0 +1,4 @@
+[submodule "boram_blog/public"]
+	path = boram_blog/public
+	url = https://github.com/bo-ram-bo-ram/bo-ram-bo-ram.github.io.git
+	branch = main
