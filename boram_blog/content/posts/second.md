@@ -34,7 +34,7 @@ published: "true"
 * 장애 상황에도 서비스를 지속할 수 있는 능력  
   장애가 있어도 다른 가용 영역으로 연결시켜 해결하는 능력
 
-![고가용성 vs 장애내구성](./images/posting/3factor.jpg){#id .class width='100%'}
+![고가용성 vs 장애내구성](/posting/3factor.jpg)
 
 
 #### 확장성
