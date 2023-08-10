@@ -4,3 +4,4 @@ title = "Boram's Blog"
 theme='hugo-paper'
 disableFingerprinting="true"
 enableEmoji ='true'
+futre:'true'

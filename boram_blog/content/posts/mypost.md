@@ -1,7 +1,7 @@
 ---
 title: "hugo로 블로그 만들기"  
 date: 2023-08-10T10:43:40+09:00
-draft: false
+published: true
 ---
 
  ## hugo로 블로그 만들기- 드디어 만들었다 :baby_chick: 
