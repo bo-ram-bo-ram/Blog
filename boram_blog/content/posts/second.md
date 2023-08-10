@@ -1,6 +1,7 @@
 ---
 title: "Cloud Service"
 date: 2023-08-10T16:13:27+09:00
+published: "true"
 ---
 
 ### Cloud Service란?
